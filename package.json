@@ -1,0 +1,9 @@
+{
+  "name": "swagger-validator",
+  "version": "1.0.0",
+  "description": "Validate swagger JSON",
+  "main": "index.js",
+  "author": "Dan Silcox <dan.silcox@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
